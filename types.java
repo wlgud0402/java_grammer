@@ -1,4 +1,4 @@
-public class MyClass {
+public class types {
 
     public static void main(String[] args) {
 
@@ -26,6 +26,8 @@ public class MyClass {
         System.out.println(age);
         //System.out.println("Hey I am a programer.");
         System.out.println("My name is " + name + " and I'm " + age + " years old."); //concat => 문자와 숫자를 합하여 사용
+
+        System.out.println("longage:"+longage + "byte:b:"+b + "short:s:"+s + "float:pi:"+pi + "double:pid:"+pid+"char:a:"+a);
 
     }
 
