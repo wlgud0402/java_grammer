@@ -15,7 +15,7 @@ public class methods_return {
         
     }
 
-    //숫자로리턴
+    //숫자로리턴 
     //            void대신 int를 씀으로써 값을 return 해서 넣어줌
     public static int addNums(int A, int B){
         int result;
